@@ -17,6 +17,7 @@ Garam
 Penyedap
 ```
 ## Cara Membuat
+```
 1. Ayam potong-potong, taruh garam secukupnya dan tambahkan perasan jeruk limau
 2. Tumis sereh, lalu taruh batang bawang dan bawang merah yang sudah dipotong-potong
 3. Setelah agak layu, taruh rica dan jahe yang sudah ditumbuk/blender, daun lemon, dan garam
@@ -25,5 +26,5 @@ Penyedap
 6. Setelah agak kering, tambahkan air bila perlu dan tunggu sampai daging masak.
 7. Sebelum diangkat, taruh balakama, daun bawang dan bumbu penyedap
 8. Aduk dan angkat (siap disajikan)
-<!--more-->
+```
 
